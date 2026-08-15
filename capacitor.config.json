@@ -1,0 +1,6 @@
+{
+  "appId": "com.qasber.tech",
+  "appName": "Qasber Tech",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
